@@ -4,7 +4,8 @@ import './index.css';
 import App from './App';
 // import registerServiceWorker from './registerServiceWorker';
 
-import Hello from './components/hello.js'
+// import Hello from './components/hello'
+import Flat from './components/flat'
 
-ReactDOM.render(<Hello />, document.getElementById('root'));
+ReactDOM.render(<App />, document.getElementById('root'));
 // registerServiceWorker();
